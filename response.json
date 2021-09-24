@@ -1,0 +1,20 @@
+{
+    "StandardDeviation": 15.178837,
+    "meandb": -0.39736563,
+    "mediandb": -9.536743e-07,
+    "maxvariation": 53.229042,
+    "minvariation": -26.770958,
+    "quartile1": -9.61731243133545,
+    "quartile3": 9.073285579681396,
+    "behavior_analysis": {
+        "pauses": {
+            "1_sec_pause": 3,
+            "2_secs_pause": 0,
+            "3_secs_pause": 0,
+            "4_secs_pause": 0,
+            "5_secs_pause": 0,
+            "6_secs_pause": 0,
+            "more_10_secs_pause": 0
+        }
+    }
+}
